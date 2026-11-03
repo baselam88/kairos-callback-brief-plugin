@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Builds the one-page callback dossier: setter captures, their number, the reason, and an opener built from the prospect's own challenge.",
+  "keywords": [
+    "brief",
+    "callback",
+    "kairos",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-callback-brief",
+  "repository": "https://github.com/baselam88/kairos-callback-brief-plugin",
+  "version": "0.1.0"
+}
